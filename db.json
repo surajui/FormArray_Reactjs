@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "firstname": "suraj",
+      "lastname": "sandeep",
+      "mobile": "8790519812",
+      "hobies": [
+        {
+          "id": 1,
+          "hobit": "Cricket"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "firstname": "Akram",
+      "lastname": "sk",
+      "mobile": "8956741230",
+      "hobies": [
+        {
+          "id": 1,
+          "hobit": "Chess"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "firstname": "Varsha",
+      "lastname": "sable",
+      "mobile": "6987512340",
+      "hobies": [
+        {
+          "id": 1,
+          "hobit": "Cricket"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "firstname": "Sandeep",
+      "lastname": "s",
+      "mobile": "6987512340",
+      "hobies": [
+        {
+          "id": 1,
+          "hobit": "Football"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "firstname": "Prasanna",
+      "lastname": "a",
+      "mobile": "8956741230",
+      "hobies": [
+        {
+          "id": 1,
+          "hobit": "Sdsas"
+        }
+      ],
+      "id": 5
+    }
+  ]
+}
